@@ -38,6 +38,6 @@ Step by step to install the project:
 
 ![Captura de tela de 2021-08-25 12-22-38](https://user-images.githubusercontent.com/24492328/130818765-e49b8f12-fc6c-4b77-b611-b7ef26e2fa93.png)
 
-Link para o GitHub Pages: Vitor8.github.io/front-end-online-store
+Link for GitHub Pages: vitor8.github.io/front-end-online-store
 
 Thanks for your interest!!
