@@ -10,7 +10,7 @@ Step by step to install the project:
 - Enter the folder: cd front-end-online-store
 - Install dependencies:
   - `npm install`
-- Run the application with: `npm-start
+- Run the application with: `npm-start`
 
 - In the app, firstly, a request is made to the Mercado Livre API, searching for all available categories, the result is rendered on the screen.
 
